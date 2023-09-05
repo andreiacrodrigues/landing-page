@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,300&display=swap');
 
 body{
     font-family:'Roboto', sans-serif;
@@ -174,7 +174,7 @@ button{
     background-color: rgb(237, 232, 232);
 }
 
-.blue-square{
+.big-square{
     background-color: #1f2937cd;
     border-radius:15px;
     width:800px;
@@ -186,8 +186,8 @@ button{
 
 .info-square{
     color:white;
-    width: 500px;
-    padding: 10px;
+    width:400px;
+    margin-left:80px;
 }
 
 .button-square{
@@ -202,7 +202,13 @@ button{
 }
 
 #bold-p{
-    font-weight: bold;
+    font-weight: bolder;
+}
+
+.hat{
+    padding: 5px;
+    margin-top:-36px;
+
 }
 
 footer{
